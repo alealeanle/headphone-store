@@ -1,0 +1,172 @@
+{
+	"headfones": [
+		{
+			"id": 1,
+			"url": "#",
+			"img": "01.jpg",
+			"title": "Apple BYZ S852I",
+			"price": "2927",
+			"priceOld": "3527",
+			"rate": "4.7",
+			"type": "wired",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-17%"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"url": "#",
+			"img": "02.jpg",
+			"title": "Apple EarPods",
+			"price": "2327",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wired"
+		},
+		{
+			"id": 3,
+			"url": "#",
+			"img": "03.jpg",
+			"title": "Apple EarPods",
+			"price": "2927",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wired"
+		},
+		{
+			"id": 4,
+			"url": "#",
+			"img": "01.jpg",
+			"title": "Apple BYZ S852I",
+			"price": "2927",
+			"priceOld": "3527",
+			"rate": "4.7",
+			"type": "wired",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-17%"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"url": "#",
+			"img": "02.jpg",
+			"title": "Apple EarPods",
+			"price": "2327",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wired"
+		},
+		{
+			"id": 6,
+			"url": "#",
+			"img": "03.jpg",
+			"title": "Apple EarPods",
+			"price": "2927",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wired"
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"img": "04.jpg",
+			"title": "Apple AirPods",
+			"price": "9527",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wireless"
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"img": "05.jpg",
+			"title": "GERLAX GH-04",
+			"price": "6527",
+			"priceOld": "",
+			"rate": "4.7",
+			"type": "wireless"
+		},
+		{
+			"id": 9,
+			"url": "#",
+			"img": "06.jpg",
+			"title": "BOROFONE BO4",
+			"price": "7527",
+			"priceOld": "",
+			"rate": "4.7",
+			"type": "wireless"
+		},
+		{
+			"id": 10,
+			"url": "#",
+			"img": "01.jpg",
+			"title": "Apple BYZ S852I",
+			"price": "2927",
+			"priceOld": "3527",
+			"rate": "4.7",
+			"type": "wired",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-17%"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"url": "#",
+			"img": "02.jpg",
+			"title": "Apple EarPods",
+			"price": "2327",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wired"
+		},
+		{
+			"id": 12,
+			"url": "#",
+			"img": "03.jpg",
+			"title": "Apple EarPods",
+			"price": "2927",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wired"
+		},
+		{
+			"id": 13,
+			"url": "#",
+			"img": "04.jpg",
+			"title": "Apple AirPods",
+			"price": "9527",
+			"priceOld": "",
+			"rate": "4.5",
+			"type": "wireless"
+		},
+		{
+			"id": 14,
+			"url": "#",
+			"img": "05.jpg",
+			"title": "GERLAX GH-04",
+			"price": "6527",
+			"priceOld": "",
+			"rate": "4.7",
+			"type": "wireless"
+		},
+		{
+			"id": 15,
+			"url": "#",
+			"img": "06.jpg",
+			"title": "BOROFONE BO4",
+			"price": "7527",
+			"priceOld": "",
+			"rate": "4.7",
+			"type": "wireless"
+		}
+	]
+}
